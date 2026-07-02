@@ -30,7 +30,7 @@ AI & Data Science graduate (2025) with a strong foundation in software developme
 
 Through hands-on projects, I've designed and built cloud-based monitoring platforms, AI-powered autonomous incident response systems, REST APIs, database-driven applications, and containerized deployments using Docker.
 
-**🎯 Currently seeking:** Full-time roles, graduate programs, and early-career opportunities in **Software Development**, **AI Engineering**, **Cloud Engineering**, and **Data Analytics**.
+**🎯 Currently seeking:** Full-time roles, graduate programs, and early-career opportunities in **Software Development**, **AI Engineering**, **Cloud Engineering**.
 
 <br clear="right"/>
 

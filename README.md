@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm VK GAURAV 👋
 
 <!-- TYPING ANIMATION BANNER -->
 <p align="center">

@@ -26,7 +26,7 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif">
 
-AI & Data Science graduate (2025) with a strong foundation in software development, artificial intelligence, cloud computing. Passionate about building scalable applications, intelligent systems, and cloud-native solutions that solve real-world problems.
+AI & Data Science graduate (2025) with a strong foundation in Software Development, Artificial Intelligence, Cloud Computing. Passionate about building scalable applications, intelligent systems, and cloud-native solutions that solve real-world problems.
 
 Through hands-on projects, I've designed and built cloud-based monitoring platforms, AI-powered autonomous incident response systems, REST APIs, database-driven applications, and containerized deployments using Docker.
 

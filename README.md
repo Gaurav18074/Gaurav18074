@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:7000FF&height=220&section=header&text=V%20K%20GAURAV&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%7C%20Cloud%20Engineering&descAlignY=58&descSize=17" width="100%"/>
+<!-- ANIMATED NEON WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,50:B026FF,100:FF00E5&height=220&section=header&text=V%20K%20GAURAV&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%7C%20Cloud%20Engineering&descAlignY=58&descSize=17" width="100%"/>
 
-<!-- TYPING ANIMATION BANNER -->
+<!-- NEON TYPING ANIMATION BANNER -->
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20To-Software%20Development%20Engineer-00F2FE?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Open%20To-AI%20Engineer-7000FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Open%20To-Cloud%20Engineer-FF00C8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open%20To-Software%20Development%20Engineer-00FFF7?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Open%20To-AI%20Engineer-B026FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Open%20To-Cloud%20Engineer-FF00E5?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:B026FF,100:FF00E5&height=4&section=header" width="100%">
 
 ## 🧬 ABOUT ME
 
@@ -71,26 +71,26 @@ Data Processing · Dashboard Development · Chart.js
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:7000FF&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:B026FF,100:FF00E5&height=4&section=header" width="100%">
 
 ## 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FFF7?style=for-the-badge&logo=vercel&logoColor=000&labelColor=000000" />
 </a>
-<a href="https://www.linkedin.com/in/gaurav-vk/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Baupc%2BU4gT7ykfEd%2F0gU5zw%3D%3D" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+<a href="https://www.linkedin.com/in/gaurav-vk/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=7000FF&center=true&vCenter=true&width=500&lines=Let's+build+something+great+together!" alt="Connect Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=FF00E5&center=true&vCenter=true&width=500&lines=Let's+build+something+great+together!" alt="Connect Typing" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000FF,100:FF00C8&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:FF00E5,100:00FFF7&height=4&section=header" width="100%">
 
 ## ⚙️ TECH STACK
 
@@ -129,7 +129,7 @@ Data Processing · Dashboard Development · Chart.js
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00C8,100:00F2FE&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:00FFF7,100:B026FF&height=4&section=header" width="100%">
 
 ## 🚀 MY PROJECTS
 
@@ -145,7 +145,9 @@ Data Processing · Dashboard Development · Chart.js
 - 🛡️ Rigid exception interceptors + custom logging layers
 - 🔁 Graceful recovery from dropped transactions & timeouts
 
-[`👉 View Repository`](https://github.com/Gaurav18074/Website-Monitoring)
+<a href="https://github.com/Gaurav18074/Website-Monitoring">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00FFF7?style=for-the-badge&labelColor=000000&logo=github&logoColor=00FFF7" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -158,20 +160,22 @@ Data Processing · Dashboard Development · Chart.js
 - 🧩 Structured LLM tool abstractions with safety bounds
 - 🧠 Graceful handling of unpredictable LLM outputs
 
-[`👉 View Repository`](https://github.com/Gaurav18074/AIOps-Agent)
+<a href="https://github.com/Gaurav18074/AIOps-Agent">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF00E5?style=for-the-badge&labelColor=000000&logo=github&logoColor=FF00E5" />
+</a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:B026FF,100:FF00E5&height=4&section=header" width="100%">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!;Let's+create+something+amazing+%F0%9F%9A%80" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!;Let's+create+something+amazing+%F0%9F%9A%80" alt="Footer Typing" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00F2FE&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:FF00E5,100:00FFF7&height=130&section=footer" width="100%"/>
 
 </div>

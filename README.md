@@ -17,14 +17,21 @@
 
 ## 🙋‍♂️ About Me
 
-I am a software engineer driven by a passion for building clean, resilient backends, autonomous workflows, and highly concurrent tools. I specialize in turning complex architectural problems into elegant, production-ready systems.
+AI & Data Science graduate (2025) with a strong foundation in software development, artificial intelligence, cloud computing, and data analytics.
+Skilled in Python, C, C++, JavaScript, HTML, CSS, SQL, and modern backend development. Passionate about building scalable applications, intelligent systems, and cloud-native solutions that solve real-world problems.
+Through hands-on projects, I have designed and developed cloud-based monitoring platforms, AI-powered autonomous incident response systems, REST APIs, database-driven applications, and containerized deployments using Docker.
+My technical expertise includes:
+• Programming: Python, C, C++, JavaScript, HTML, CSS, SQL
+• Backend Development: FastAPI, REST APIs, SQLAlchemy
+• Databases: PostgreSQL, Redis
+• Cloud & DevOps: Docker, AWS, Nginx, GitHub Actions, CI/CD
+• AI & Machine Learning: LangChain, LangGraph, OpenAI APIs, Agentic AI Systems
+• Data Analytics & Visualization: Data Processing, Dashboard Development, Chart.js
+I am actively seeking opportunities in Software Development, AI Engineering, Cloud Engineering, Data Analytics, and related technology roles where I can contribute, learn, and grow while building impactful solutions.
+Open to full-time opportunities, graduate programs, and early-career engineering roles.
 
 I'm currently looking for opportunities as a **Software Development Engineer**, **AI Engineer**, or **Cloud Engineer**.
 
-* 🔭 **I'm currently focusing on:** Distributed infrastructure tracking and intelligent workflow automation systems.
-* 🌱 **I'm currently mastering:** Data Structures & Algorithms (DSA), low-level object-oriented systems design, and agentic framework scaling.
-* 💬 **Ask me about:** Python, asynchronous concurrency, or your favorite Tamil action thrillers.
-* ⚡ **Fun fact:** Captivated by the complex ecosystem and world design of Pandora (*Avatar*).
 
 ---
 

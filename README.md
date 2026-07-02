@@ -156,10 +156,6 @@ Data Processing · Dashboard Development · Chart.js
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/Gaurav18074/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00F2FE&height=120&section=footer" width="100%"/>
 
 </div>

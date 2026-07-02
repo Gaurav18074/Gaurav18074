@@ -1,75 +1,87 @@
-# Hi, I'm VK GAURAV 👋
+# Hi, I'm Gaurav 👋
 
 <!-- TYPING ANIMATION BANNER -->
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Data+Analyst;Problem+Solver;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&width=500&lines=Software+Development+Engineer;AIOps+%26+Automation+Explorer;Asynchronous+Systems+Builder;Welcome+to+my+digital+space!" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering%20%7C%20Automation-00F2FE?style=for-the-badge" alt="Focus Badge" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I am a passionate developer focused on building clean, efficient, and impactful solutions. I love exploring new technologies and breaking down complex problems.
+I am a software engineer driven by a passion for building clean, resilient backends, autonomous workflows, and highly concurrent tools. I specialize in turning complex architectural problems into elegant, production-ready systems.
 
-* 🔭 **I’m currently working on:** A Wine Quality Prediction & Analysis project.
-* 🌱 **I’m currently learning:** Advanced machine learning techniques and cloud deployment.
-* 💬 **Ask me about:** Python, data analysis, or my favorite movies.
-* ⚡ **Fun fact:** Massive fan of the world of Pandora (*Avatar*).
+* 🔭 **I’m currently focusing on:** Distributed infrastructure tracking and intelligent workflow automation systems.
+* 🌱 **I’m currently mastering:** Data Structures & Algorithms (DSA), low-level object-oriented systems design, and agentic framework scaling.
+* 💬 **Ask me about:** Python, asynchronous concurrency, or your favorite Tamil action thrillers.
+* ⚡ **Fun fact:** Captivated by the complex ecosystem and world design of Pandora (*Avatar*).
 
 ---
 
 ## 🌐 Connect With Me
 
-<!-- PORTFOLIO & LINKEDIN BADGES -->
-<a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Knockout&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://linkedin.com/in/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,postgres,git,github,vscode" />
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=Knockout&logoColor=000" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-### Tools & Environments
-* **Data Science / Analytics:** Jupyter Notebooks, Pandas, NumPy
-* **Version Control & OS:** Git, GitHub, Linux
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+### Core Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode" />
+</p>
+
+### Engineering Tools & Environments
+* **Asynchronous & Automation Logic:** LangChain / LangGraph Ecosystem, Event-Driven Webhooks
+* **Data Layer & Validation:** Vector Embeddings (ChromaDB), Relational Modeling (SQL / SQLite), Pydantic
+* **Systems & Environment:** Multi-threading, Concurrent Python I/O, Linux Core
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Key Production Engines
 
-### 🍷 Wine Quality Check
-> An end-to-end data science project designed to analyze and predict the quality of wine based on physicochemical tests.
-* **Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib
-* **Key Feature:** Implemented classification models to predict quality scores with high accuracy.
-* [👉 View Repository](https://github.com/yourusername/wine-quality-check)
+### 🌐 Real-Time Website Monitoring System
+> An asynchronous infrastructure-tracking daemon engineered to manage concurrent URL state validation and latency metric analysis.
+* **Architecture highlights:** Utilized asynchronous I/O loops (`asyncio` / `aiohttp`) to fire multiple non-blocking server pings simultaneously, significantly lowering runtime bottlenecks.
+* **Reliability Engineering:** Built rigid exception-handling interceptors and custom logging layers to catch dropped database transactions and erratic timeouts without breaking execution states.
+* [👉 View Repository](https://github.com/Gaurav18074/Website-Monitoring)
+
+### 🤖 Autonomous AIOps Agent Pipeline
+> An event-driven workflow engine leveraging the ReAct architecture to parse system anomalies and execute real-time repository diagnostics.
+* **Architecture highlights:** Integrated automated FastAPI webhook listeners with vector database contexts (ChromaDB) to perform Retrieval-Augmented Generation (RAG) on incoming code modifications.
+* **Reliability Engineering:** Designed structured Python abstraction tools with safety boundaries, enforcing error-catching mechanisms to handle unpredictable LLM syntax outputs gracefully.
+* [👉 View Repository](https://github.com/Gaurav18074/AIOps-Agent)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radial&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav18074&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav18074&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-### 📅 Contribution Graph
+### 📅 Activity Matrix
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav18074&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
 
-<!-- VISITOR BADGE -->
+<!-- VISITOR COUNT -->
 <p align="right">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Gaurav18074/count.svg" alt="Visitor Count" />
 </p>

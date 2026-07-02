@@ -1,4 +1,4 @@
-# Hi, I'm Gaurav 👋
+# Hi, I'm Gaurav 
 
 <!-- TYPING ANIMATION BANNER -->
 <p align="center">

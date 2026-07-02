@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:7000FF&height=200&section=header&text=GAURAV&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%7C%20Cloud%20Engineering&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:7000FF&height=200&section=header&text=V%20K%20GAURAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%7C%20Cloud%20Engineering&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- TYPING ANIMATION BANNER -->
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E+Software+Development+Engineer;%3E+Welcome+to+my+digital+space!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-## `01.` SYSTEM // ABOUT ME
+## ABOUT ME
 
 AI & Data Science graduate (2025) with a strong foundation in software development, artificial intelligence, cloud computing, and data analytics. Passionate about building scalable applications, intelligent systems, and cloud-native solutions that solve real-world problems.
 

@@ -3,7 +3,7 @@
 <!-- TYPING ANIMATION BANNER -->
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&width=500&lines=Software+Development+Engineer;AIOps+%26+Automation+Explorer;Asynchronous+Systems+Builder;Welcome+to+my+digital+space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&width=500&lines=Software+Development+Engineer;Welcome+to+my+digital+space!" alt="Typing SVG" />
   </a>
 </p>
 
